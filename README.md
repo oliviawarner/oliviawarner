@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Olivia and I am a software developer, designer, and data analyst! 😄 <br> Welcome to my GitHub page - feel free to check out some of the projects I have been working on! 
+### Hi there 👋 My name is Olivia and I am a software developer, designer, and data analyst! 😄 <br> Welcome - Feel free to check out some of the projects I have been working on! 
 
 <!--
 **oliviawarner/oliviawarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
